@@ -1,4 +1,4 @@
-site_name: Mi Documentación
+site_name: Documentación de TFC
 site_url: https://tu-usuario.github.io/tu-repo/
 repo_url: https://github.com/tu-usuario/tu-repo/
 repo_name: GitHub
@@ -47,9 +47,7 @@ plugins:
 nav:
   - Inicio: index.md
   - DSW: dsw.md
+  - DOR: dor.md
   - EIE: eie.md
-  - Guía:
-      - Introducción: docs/intro.md
-      - DSW: docs/dsw.md
-      - Uso: docs/uso.md
-  - Acerca: acerca.md
+  - DEW: dew.md
+  - DPL: dpl.md

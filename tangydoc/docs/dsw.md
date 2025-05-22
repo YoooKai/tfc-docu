@@ -24,7 +24,7 @@ Este proyecto cuenta con varias aplicaciones. Main, Post, Event, order, personal
 
 Cuenta con la carpeta media, donde se guardan todas las imágenes subidas al proyecto.
 
-## MAIN
+#### MAIN
 
 La app `main` centraliza la configuración general del proyecto, como rutas, bases de datos, correo y middlewares. Incluye la configuración de **envío de correos mediante Gmail** para facilitar la comunicación en el formulario de contacto, y define los **endpoints principales bajo `/api/v1/`**, lo que permite escalar futuras versiones (como `v2`). También gestiona la carga de archivos multimedia y estática, y define las rutas que enlazan con otras apps como `post`, `product`, `order`, etc.
 
@@ -58,7 +58,7 @@ Incluye las URLs estándar de Djoser para manejar autenticación (registro, logi
 
 Incluye rutas específicas para el **token de autenticación** cuando usas el sistema de tokens con Django REST Framework.
 
-# Aplicación **Post**
+###  Aplicación **Post**
 
 Esta aplicación gestiona publicaciones o entradas de blog, permitiendo almacenar contenido textual junto con imágenes relacionadas, organizadas en categorías definidas.
 

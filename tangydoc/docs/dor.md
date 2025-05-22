@@ -74,6 +74,8 @@ El diseño es completamente responsive, adaptándose fluidamente a distintos tam
 - Las imágenes y demás contenidos gráficos se ajustan para evitar desbordamientos o distorsiones, manteniendo la coherencia visual.
 - Se han incorporado media queries para modificar estilos específicos en función del ancho de pantalla, logrando un comportamiento adaptado sin sacrificar la estética en dispositivos grandes.
 
+![Texto alternativo](assets/images/image%202.png)
+
 ![image.png](image%202.png)
 
 ![image.png](image%203.png)
