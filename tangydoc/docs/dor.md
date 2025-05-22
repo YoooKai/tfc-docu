@@ -76,154 +76,152 @@ El diseño es completamente responsive, adaptándose fluidamente a distintos tam
 
 ![Texto alternativo](assets/images/image%202.png)
 
-![image.png](image%202.png)
+![image.png](assets/images/image%203.png)
 
-![image.png](image%203.png)
-
-![image.png](image%204.png)
+![image.png](assets/images/image%204.png)
 
 ## **Home**
 
 En este caso, tengo un texto que se desplaza a lo largo de la pantalla, y he agregado un evento para evitar que se sobreponga en pantallas más pequeñas, editando su ancho.
 
-![image.png](image%205.png)
+![image.png](assets/images/image%205.png)
 
-![image.png](image%206.png)
+![image.png]assets/images/(image%206.png)
 
 ### Navbar
 
 Este se convierte en menú hamburguesa en dispositivos pequeños.
 
-![image.png](image%207.png)
+![image.png](assets/images/image%207.png)
 
 ### Galería:
 
 Tiene etiquetas para las categorías que filtran, y estos botones activos están en azúl.
 
-![image.png](image%208.png)
+![image.png](assets/images/image%208.png)
 
 **Pantalla pequeña**
 
-![image.png](image%209.png)
+![image.png](assets/images/image%209.png)
 
-![image.png](image%2010.png)
+![image.png](assets/images/image%2010.png)
 
 Se puede navegar entre elementos por flechas, y cerrar al darle click a la x, o cualquier parte fuera de la imagen.
 
 Al hacer hover, se muestra el título de la imagen.
 
-![image.png](06bb9aa6-e906-4166-9b32-995923620b3a.png)
+![image.png](assets/images/06bb9aa6-e906-4166-9b32-995923620b3a.png)
 
 **INFO - Sobre mí**
 
-![image.png](image%2011.png)
+![image.png](assets/images/image%2011.png)
 
-![image.png](image%2012.png)
+![image.png](assets/images/image%2012.png)
 
-![image.png](image%2013.png)
+![image.png](assets/images/image%2013.png)
 
 ### INFO - Comisiones
 
 Se adapta a las pantallas.
 
-![image.png](image%2014.png)
+![image.png](assets/images/image%2014.png)
 
-![image.png](image%2015.png)
+![image.png](assets/images/image%2015.png)
 
-![image.png](image%2016.png)
+![image.png](assets/images/image%2016.png)
 
 **Info - Eventos**
 
-![image.png](image%2017.png)
+![image.png](assets/images/image%2017.png)
 
-![image.png](image%2018.png)
+![image.png](assets/images/image%2018.png)
 
 **Info - Preguntas y Respuestas**
 
 Las preguntas desplegadas cambian de color e icono.
 
-![image.png](image%2019.png)
+![image.png](assets/images/image%2019.png)
 
-![image.png](image%2020.png)
+![image.png](assets/images/image%2020.png)
 
 **Contacto**
 
-![image.png](image%2021.png)
+![image.png](assets/images/image%2021.png)
 
-![image.png](image%2022.png)
+![image.png](assets/images/image%2022.png)
 
-![image.png](f3526e3a-e11d-4edd-8419-18fd1515c721.png)
+![image.png](assets/images/f3526e3a-e11d-4edd-8419-18fd1515c721.png)
 
 Tiene tooltip para indicar el significado del icono.
 
 **Blog**
 
-![image.png](image%2023.png)
+![image.png](assets/images/image%2023.png)
 
-![image.png](image%2024.png)
+![image.png](assets/images/image%2024.png)
 
-![image.png](aa7d539d-3b6e-4a97-a9a4-052c547ce0c3.png)
+![image.png](assets/images/aa7d539d-3b6e-4a97-a9a4-052c547ce0c3.png)
 
-![image.png](image%2025.png)
+![image.png](assets/images/image%2025.png)
 
 **Blog/post**
 
-![image.png](image%2026.png)
+![image.png](assets/images/image%2026.png)
 
-![image.png](image%2027.png)
+![image.png](assets/images/image%2027.png)
 
 **Login Modal**
 
 Fácil de abrir y cerrar, opaca el fondo de la página. Contiene texto en los inputs para especificar qué debe escribir el usuario.
 
-![image.png](image%2028.png)
+![image.png](assets/images/image%2028.png)
 
-![image.png](image%2029.png)
+![image.png](assets/images/image%2029.png)
 
 Móvil:
 
-![image.png](image%2030.png)
+![image.png](assets/images/image%2030.png)
 
-![image.png](image%2031.png)
+![image.png](assets/images/image%2031.png)
 
 **Mi cuenta**
 
-![image.png](image%2032.png)
+![image.png](assets/images/image%2032.png)
 
-![image.png](image%2033.png)
+![image.png](assets/images/image%2033.png)
 
 **Carrito:**
 
 Mensajes explican el estado del carrito si no hay añadidos
 
-![image.png](image%2034.png)
+![image.png](assets/images/image%2034.png)
 
-![image.png](image%2035.png)
+![image.png](assets/images/image%2035.png)
 
-![image.png](image%2036.png)
+![image.png](assets/images/image%2036.png)
 
 ### Caja. Desglose de pedido
 
-![image.png](image%2037.png)
+![image.png](assets/images/image%2037.png)
 
-![image.png](image%2038.png)
+![image.png](assets/images/image%2038.png)
 
 **La tienda**
 
-![image.png](image%2039.png)
+![image.png](assets/images/image%2039.png)
 
 Animación en la que se amplia el tamaño de la tarjeta y animación de línea bajo el título.
 
 Permíte hacer búsquedas claras.
 
-![image.png](5ce54250-8e7b-4dd9-a13c-b58b9e2cad93.png)
+![image.png](assets/images/5ce54250-8e7b-4dd9-a13c-b58b9e2cad93.png)
 
-![image.png](image%2040.png)
+![image.png](assets/images/image%2040.png)
 
-![image.png](9b269f43-57de-47a9-9c71-914904a5bcf5.png)
+![image.png](assets/images/9b269f43-57de-47a9-9c71-914904a5bcf5.png)
 
 **Vista móvil:**
 
-![image.png](image%2041.png)
+![image.png](assets/images/image%2041.png)
 
-![image.png](image%2042.png)
+![image.png](assets/images/image%2042.png)

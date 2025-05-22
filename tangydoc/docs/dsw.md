@@ -831,7 +831,7 @@ Representa una orden de compra realizada por un usuario en la tienda. Contiene i
 
 ---
 
-![image.png](image.png)
+![image.png](assets/images/image.png)
 
 ## Modelo `OrderItem`
 
@@ -954,7 +954,7 @@ class OrdersList(APIView):
 - La lógica de cobro es manejada dentro de la vista `checkout`, asegurando que solo se cree la orden tras confirmarse el pago.
 - El uso de autenticación por token garantiza seguridad y control de acceso a las órdenes y pagos.
 
-![image.png](image%201.png)
+![image.png](assets/images/image%201.png)
 
 ## Tests
 

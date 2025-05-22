@@ -7,13 +7,13 @@ Me he informado y he explorado opciones y maneras de despliegue. He elegido **di
 
 En primer lugar, creé un Droplet tras registrarme, eligiendo un plan de acuerdo a mis necesidades. Elegí el más sencillo.
 
-![image.png](image%2043.png)
+![image.png](assets/images/image%2043.png)
 
-![image.png](image%2044.png)
+![image.png](assets/images/image%2044.png)
 
 Y comprar un dominio, para lo que elegí namecheap, pues como el nombre indica, es económico. Lo conecté con la IP del droplet de digitalocean.
 
-![image.png](image%2045.png)
+![image.png](assets/images/image%2045.png)
 
 ### 1. Conectarse al servidor por SSH
 
@@ -24,7 +24,7 @@ ssh root@178.128.35.47
 
 - Te conectas al servidor remoto usando el usuario root.
 - La IP es la del servidor en DigitalOcean (o similar).
-- Se te pedirá la contraseña (`6cR@66)X0c`).
+- Se te pedirá la contraseña.
 
 ---
 
