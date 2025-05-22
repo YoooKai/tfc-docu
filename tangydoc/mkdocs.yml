@@ -1,0 +1,55 @@
+site_name: Mi Documentación
+site_url: https://tu-usuario.github.io/tu-repo/
+repo_url: https://github.com/tu-usuario/tu-repo/
+repo_name: GitHub
+
+theme:
+  name: material
+  palette:
+    - scheme: slate  
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+    - scheme: default 
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.instant
+    - toc.integrate
+    - content.code.copy
+    - content.code.annotate
+    - header.autohide
+    - search.highlight
+    - search.suggest
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Inicio: index.md
+  - DSW: dsw.md
+  - EIE: eie.md
+  - Guía:
+      - Introducción: docs/intro.md
+      - DSW: docs/dsw.md
+      - Uso: docs/uso.md
+  - Acerca: acerca.md
